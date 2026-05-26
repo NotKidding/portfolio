@@ -1,0 +1,31 @@
+[
+  {
+    "id": "google-cybersecurity",
+    "title": "Google Cybersecurity Professional Certificate",
+    "issuer": "Coursera",
+    "issuerSub": "by Google",
+    "date": "2025",
+    "status": "completed",
+    "statusLabel": "COMPLETED",
+    "url": "https://www.coursera.org/account/accomplishments/specialization/EO35O5XBTTOB",
+    "description": "Security fundamentals, risk management, networking, Linux & SQL, asset management, SIEM tooling, and incident response — a full structured pass over the defensive-side baseline.",
+    "skills": ["Linux", "SQL", "Networking", "Risk Mgmt", "SIEM", "Python"]
+  },
+  {
+    "id": "tryhackme-labs",
+    "title": "TryHackMe Cybersecurity Labs",
+    "issuer": "TryHackMe",
+    "issuerSub": "top 7% global",
+    "date": "Ongoing",
+    "status": "active",
+    "statusLabel": "100+ LABS",
+    "url": "https://tryhackme.com/p/NotKidd",
+    "description": "Practical labs covering Linux, networking fundamentals, web exploitation, and structured security challenges. Advent of Cyber participant.",
+    "skills": ["Web Exploitation", "Linux", "Networking", "Pivoting"],
+    "stats": [
+      { "value": "100+", "label": "LABS" },
+      { "value": "Top 7%", "label": "GLOBAL" },
+      { "value": "1st", "label": "SILVER LEAGUE" }
+    ]
+  }
+]

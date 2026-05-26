@@ -1,0 +1,36 @@
+[
+  {
+    "id": "independent-research",
+    "tag": "LABS",
+    "org": "Independent\nResearch & Labs",
+    "title": "Independent Security Research",
+    "bullets": [
+      "TryHackMe — 100+ machines compromised.",
+      "Hands-on Linux fundamentals.",
+      "Silver League — 1st place."
+    ]
+  },
+  {
+    "id": "owasp-bootcamp",
+    "tag": "BOOTCAMP",
+    "org": "µLearn &\nOWASP-Kerala",
+    "title": "OWASP-Based Security Bootcamp",
+    "bullets": [
+      "Phishing simulation with Gophish.",
+      "Malware incident threat reports.",
+      "Pentest report on enumeration."
+    ]
+  },
+  {
+    "id": "red-team-impact",
+    "tag": "ACTIVE",
+    "org": "µLearn -\nCybersecurity",
+    "title": "Red Team Impact Project",
+    "status": "PLANNING",
+    "bullets": [
+      "Phase — planning & scoping.",
+      "Role — offensive-side contributor.",
+      "Goal — structured team red team exercise."
+    ]
+  }
+]
