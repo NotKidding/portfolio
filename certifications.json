@@ -15,16 +15,16 @@
     "id": "tryhackme-labs",
     "title": "TryHackMe Cybersecurity Labs",
     "issuer": "TryHackMe",
-    "issuerSub": "top 7% global",
+    "issuerSub": "top 3% global",
     "date": "Ongoing",
     "status": "active",
-    "statusLabel": "100+ LABS",
+    "statusLabel": "150+ LABS",
     "url": "https://tryhackme.com/p/NotKidd",
     "description": "Practical labs covering Linux, networking fundamentals, web exploitation, and structured security challenges. Advent of Cyber participant.",
     "skills": ["Web Exploitation", "Linux", "Networking", "Pivoting"],
     "stats": [
-      { "value": "100+", "label": "LABS" },
-      { "value": "Top 7%", "label": "GLOBAL" },
+      { "value": "150+", "label": "LABS" },
+      { "value": "Top 3%", "label": "GLOBAL" },
       { "value": "1st", "label": "SILVER LEAGUE" }
     ]
   }
