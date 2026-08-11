@@ -15,7 +15,7 @@
     "id": "tryhackme-labs",
     "title": "TryHackMe Cybersecurity Labs",
     "issuer": "TryHackMe",
-    "issuerSub": "top 3% global",
+    "issuerSub": "top 2% global",
     "date": "Ongoing",
     "status": "active",
     "statusLabel": "150+ LABS",
@@ -24,7 +24,7 @@
     "skills": ["Web Exploitation", "Linux", "Networking", "Pivoting"],
     "stats": [
       { "value": "150+", "label": "LABS" },
-      { "value": "Top 3%", "label": "GLOBAL" },
+      { "value": "Top 2%", "label": "GLOBAL" },
       { "value": "1st", "label": "SILVER LEAGUE" }
     ]
   }
